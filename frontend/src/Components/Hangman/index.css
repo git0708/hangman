@@ -1,0 +1,61 @@
+.rop {
+    border-left: 5px solid;
+    height: 38px;
+    position: absolute;
+    top: 40px;
+    left: 192px;
+}
+
+.head {
+    width: 30px;
+    height: 30px;
+    border: 5px solid black;
+    border-radius: 35px;
+    position: absolute;
+    top: 74px;
+    left: 174px;
+}
+
+.body {
+    border-left: 5px solid;
+    height: 80px;
+    position: absolute;
+    top: 111px;
+    left: 192px;
+}
+
+.leftArm{
+    position: absolute;
+    border-left: 5px solid;
+    height: 30px;
+    transform: rotate(30deg);
+    top: 116px;
+    left: 184px;
+}
+
+.rightArm{
+    position: absolute;
+    border-left: 5px solid;
+    height: 30px;
+    transform: rotate(-30deg);
+    top: 116px;
+    left: 200px;
+}
+
+.leftLeg{
+    position: absolute;
+    border-left: 5px solid;
+    height: 30px;
+    transform: rotate(30deg);
+    top: 187px;
+    left: 184px;
+}
+
+.rightLeg{
+    position: absolute;
+    border-left: 5px solid;
+    height: 30px;
+    transform: rotate(-30deg);
+    top: 186px;
+    left: 200px;
+}

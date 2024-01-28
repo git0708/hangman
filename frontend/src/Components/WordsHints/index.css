@@ -1,0 +1,30 @@
+.wordsHints {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: #eee;
+    padding: 1px;
+    border-radius: 5px;
+    width: 50%;
+  }
+.hints{
+    margin: 10px;
+    font-size: 22px;
+    font-weight: 500;
+    color: #da7474;
+    text-align: center;
+}
+.underscore{
+    border-bottom: 5px solid;
+    width: 30px;
+    margin: 20px 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #3d5f9d;
+}
+.answer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
